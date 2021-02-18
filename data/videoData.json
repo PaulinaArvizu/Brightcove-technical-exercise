@@ -1,0 +1,1159 @@
+[ {
+  "id" : "6232701212001",
+  "account_id" : "6044537239001",
+  "ad_keys" : null,
+  "clip_source_video_id" : null,
+  "complete" : true,
+  "created_at" : "2021-02-16T16:36:28.336Z",
+  "created_by" : {
+    "type" : "api_key"
+  },
+  "cue_points" : [ ],
+  "custom_fields" : { },
+  "delivery_type" : "live_origin",
+  "description" : null,
+  "digital_master_id" : null,
+  "duration" : -1,
+  "economics" : "AD_SUPPORTED",
+  "folder_id" : null,
+  "geo" : null,
+  "has_digital_master" : false,
+  "images" : { },
+  "link" : null,
+  "long_description" : null,
+  "name" : "test without",
+  "original_filename" : null,
+  "projection" : null,
+  "published_at" : "2021-02-16T16:36:28.342Z",
+  "reference_id" : null,
+  "schedule" : null,
+  "sharing" : null,
+  "state" : "ACTIVE",
+  "tags" : [ ],
+  "text_tracks" : [ ],
+  "updated_at" : "2021-02-16T16:36:29.607Z",
+  "updated_by" : {
+    "type" : "api_key"
+  },
+  "playback_rights_id" : null
+}, {
+  "id" : "6232703579001",
+  "account_id" : "6044537239001",
+  "ad_keys" : null,
+  "clip_source_video_id" : null,
+  "complete" : true,
+  "created_at" : "2021-02-16T16:35:05.351Z",
+  "created_by" : {
+    "type" : "api_key"
+  },
+  "cue_points" : [ ],
+  "custom_fields" : { },
+  "delivery_type" : "live_origin",
+  "description" : null,
+  "digital_master_id" : null,
+  "duration" : -1,
+  "economics" : "AD_SUPPORTED",
+  "folder_id" : null,
+  "geo" : null,
+  "has_digital_master" : false,
+  "images" : { },
+  "link" : null,
+  "long_description" : null,
+  "name" : "test dvr",
+  "original_filename" : null,
+  "projection" : null,
+  "published_at" : "2021-02-16T16:35:05.366Z",
+  "reference_id" : null,
+  "schedule" : null,
+  "sharing" : null,
+  "state" : "ACTIVE",
+  "tags" : [ ],
+  "text_tracks" : [ ],
+  "updated_at" : "2021-02-16T16:35:06.608Z",
+  "updated_by" : {
+    "type" : "api_key"
+  },
+  "playback_rights_id" : null
+}, {
+  "id" : "6215931861001",
+  "account_id" : "6044537239001",
+  "ad_keys" : null,
+  "clip_source_video_id" : null,
+  "complete" : true,
+  "created_at" : "2020-12-13T03:34:34.764Z",
+  "created_by" : {
+    "type" : "user",
+    "id" : "76076159626",
+    "email" : "dadelantado@brightcove.com"
+  },
+  "cue_points" : [ ],
+  "custom_fields" : { },
+  "delivery_type" : "dynamic_origin",
+  "description" : null,
+  "digital_master_id" : null,
+  "duration" : 6301802,
+  "economics" : "AD_SUPPORTED",
+  "folder_id" : null,
+  "geo" : null,
+  "has_digital_master" : true,
+  "images" : {
+    "poster" : {
+      "src" : "https://cf-images.us-east-1.prod.boltdns.net/v1/jit/6044537239001/f34ef14a-7341-41d0-ba50-0adfe88955aa/main/1280x720/52m30s901ms/match/image.jpg",
+      "sources" : [ {
+        "src" : "https://cf-images.us-east-1.prod.boltdns.net/v1/jit/6044537239001/f34ef14a-7341-41d0-ba50-0adfe88955aa/main/1280x720/52m30s901ms/match/image.jpg",
+        "height" : 720,
+        "width" : 1280
+      } ]
+    },
+    "thumbnail" : {
+      "src" : "https://cf-images.us-east-1.prod.boltdns.net/v1/jit/6044537239001/f34ef14a-7341-41d0-ba50-0adfe88955aa/main/160x90/52m30s901ms/match/image.jpg",
+      "sources" : [ {
+        "src" : "https://cf-images.us-east-1.prod.boltdns.net/v1/jit/6044537239001/f34ef14a-7341-41d0-ba50-0adfe88955aa/main/160x90/52m30s901ms/match/image.jpg",
+        "height" : 90,
+        "width" : 160
+      } ]
+    }
+  },
+  "link" : null,
+  "long_description" : null,
+  "name" : "Sad Saturno Show Online Mundial",
+  "original_filename" : "sadsa-final.mp4",
+  "projection" : null,
+  "published_at" : "2020-12-13T03:34:34.774Z",
+  "reference_id" : null,
+  "schedule" : null,
+  "sharing" : null,
+  "state" : "ACTIVE",
+  "tags" : [ ],
+  "text_tracks" : [ ],
+  "updated_at" : "2021-02-10T16:15:25.614Z",
+  "updated_by" : {
+    "type" : "user",
+    "id" : "76076159626",
+    "email" : "dadelantado@brightcove.com"
+  },
+  "drm_disabled" : false,
+  "offline_enabled" : true,
+  "playback_rights_id" : null
+}, {
+  "id" : "6163414104001",
+  "account_id" : "6044537239001",
+  "ad_keys" : null,
+  "clip_source_video_id" : null,
+  "complete" : true,
+  "created_at" : "2020-06-11T16:42:35.220Z",
+  "created_by" : {
+    "type" : "api_key"
+  },
+  "cue_points" : [ ],
+  "custom_fields" : {
+    "test_field" : "another value"
+  },
+  "delivery_type" : "dynamic_origin",
+  "description" : null,
+  "digital_master_id" : null,
+  "duration" : 1351533,
+  "economics" : "AD_SUPPORTED",
+  "folder_id" : null,
+  "geo" : null,
+  "has_digital_master" : true,
+  "images" : {
+    "thumbnail" : {
+      "src" : "https://cf-images.us-east-1.prod.boltdns.net/v1/jit/6044537239001/2a6157fa-9349-49de-8746-58d75d8b9c3f/main/300x230/5s/match/image.jpg",
+      "sources" : [ {
+        "src" : "https://cf-images.us-east-1.prod.boltdns.net/v1/jit/6044537239001/2a6157fa-9349-49de-8746-58d75d8b9c3f/main/300x230/5s/match/image.jpg",
+        "height" : 230,
+        "width" : 300
+      } ]
+    },
+    "poster" : {
+      "src" : "https://cf-images.us-east-1.prod.boltdns.net/v1/jit/6044537239001/2a6157fa-9349-49de-8746-58d75d8b9c3f/main/1280x720/5s/match/image.jpg",
+      "sources" : [ {
+        "src" : "https://cf-images.us-east-1.prod.boltdns.net/v1/jit/6044537239001/2a6157fa-9349-49de-8746-58d75d8b9c3f/main/1280x720/5s/match/image.jpg",
+        "height" : 720,
+        "width" : 1280
+      } ]
+    }
+  },
+  "link" : null,
+  "long_description" : null,
+  "name" : "Bass testing",
+  "original_filename" : null,
+  "projection" : null,
+  "published_at" : "2020-06-11T16:42:35.234Z",
+  "reference_id" : null,
+  "schedule" : null,
+  "sharing" : null,
+  "state" : "ACTIVE",
+  "tags" : [ "mexico" ],
+  "text_tracks" : [ ],
+  "updated_at" : "2021-02-10T00:15:36.325Z",
+  "updated_by" : {
+    "type" : "user",
+    "id" : "76076219247",
+    "email" : "bcmxhiring@gmail.com"
+  },
+  "drm_disabled" : false,
+  "offline_enabled" : false,
+  "playback_rights_id" : null
+}, {
+  "id" : "6065899830001",
+  "account_id" : "6044537239001",
+  "ad_keys" : null,
+  "clip_source_video_id" : null,
+  "complete" : true,
+  "created_at" : "2019-07-31T00:00:03.942Z",
+  "created_by" : {
+    "type" : "api_key"
+  },
+  "cue_points" : [ ],
+  "custom_fields" : { },
+  "delivery_type" : "dynamic_origin",
+  "description" : null,
+  "digital_master_id" : null,
+  "duration" : 295381,
+  "economics" : "AD_SUPPORTED",
+  "folder_id" : null,
+  "geo" : null,
+  "has_digital_master" : true,
+  "images" : {
+    "thumbnail" : {
+      "src" : "https://cf-images.us-east-1.prod.boltdns.net/v1/jit/6044537239001/77f77da2-b2fe-48fa-a66c-bbcf55d2fc6a/main/160x90/2m27s690ms/match/image.jpg",
+      "sources" : [ {
+        "src" : "https://cf-images.us-east-1.prod.boltdns.net/v1/jit/6044537239001/77f77da2-b2fe-48fa-a66c-bbcf55d2fc6a/main/160x90/2m27s690ms/match/image.jpg",
+        "height" : 90,
+        "width" : 160
+      } ]
+    },
+    "poster" : {
+      "src" : "https://cf-images.us-east-1.prod.boltdns.net/v1/jit/6044537239001/77f77da2-b2fe-48fa-a66c-bbcf55d2fc6a/main/1280x720/2m27s690ms/match/image.jpg",
+      "sources" : [ {
+        "src" : "https://cf-images.us-east-1.prod.boltdns.net/v1/jit/6044537239001/77f77da2-b2fe-48fa-a66c-bbcf55d2fc6a/main/1280x720/2m27s690ms/match/image.jpg",
+        "height" : 720,
+        "width" : 1280
+      } ]
+    }
+  },
+  "link" : null,
+  "long_description" : null,
+  "name" : "myeve",
+  "original_filename" : "3e928acea61840529832155b35f8961d.mp4",
+  "projection" : null,
+  "published_at" : "2019-07-31T00:00:03.961Z",
+  "reference_id" : null,
+  "schedule" : null,
+  "sharing" : null,
+  "state" : "ACTIVE",
+  "tags" : [ "mexico" ],
+  "text_tracks" : [ ],
+  "updated_at" : "2021-02-10T00:15:17.738Z",
+  "updated_by" : {
+    "type" : "user",
+    "id" : "76076219247",
+    "email" : "bcmxhiring@gmail.com"
+  },
+  "drm_disabled" : false,
+  "offline_enabled" : false,
+  "playback_rights_id" : null
+}, {
+  "id" : "6059424155001",
+  "account_id" : "6044537239001",
+  "ad_keys" : null,
+  "clip_source_video_id" : "6059407415001",
+  "complete" : true,
+  "created_at" : "2019-07-15T18:07:45.984Z",
+  "created_by" : {
+    "type" : "api_key"
+  },
+  "cue_points" : [ ],
+  "custom_fields" : { },
+  "delivery_type" : "dynamic_origin",
+  "description" : null,
+  "digital_master_id" : null,
+  "duration" : 72052,
+  "economics" : "AD_SUPPORTED",
+  "folder_id" : null,
+  "geo" : null,
+  "has_digital_master" : true,
+  "images" : {
+    "thumbnail" : {
+      "src" : "https://cf-images.us-east-1.prod.boltdns.net/v1/jit/6044537239001/b48f8768-179f-4283-8a92-d6aef7511f7a/main/160x90/36s26ms/match/image.jpg",
+      "sources" : [ {
+        "src" : "https://cf-images.us-east-1.prod.boltdns.net/v1/jit/6044537239001/b48f8768-179f-4283-8a92-d6aef7511f7a/main/160x90/36s26ms/match/image.jpg",
+        "height" : 90,
+        "width" : 160
+      } ]
+    },
+    "poster" : {
+      "src" : "https://cf-images.us-east-1.prod.boltdns.net/v1/jit/6044537239001/b48f8768-179f-4283-8a92-d6aef7511f7a/main/1280x720/36s26ms/match/image.jpg",
+      "sources" : [ {
+        "src" : "https://cf-images.us-east-1.prod.boltdns.net/v1/jit/6044537239001/b48f8768-179f-4283-8a92-d6aef7511f7a/main/1280x720/36s26ms/match/image.jpg",
+        "height" : 720,
+        "width" : 1280
+      } ]
+    }
+  },
+  "link" : null,
+  "long_description" : null,
+  "name" : "mineeeeee",
+  "original_filename" : "7e5c6ef102ea474a8bd0768dc19f11f0.mp4",
+  "projection" : null,
+  "published_at" : "2019-07-15T18:07:45.997Z",
+  "reference_id" : null,
+  "schedule" : null,
+  "sharing" : null,
+  "state" : "ACTIVE",
+  "tags" : [ "mexico" ],
+  "text_tracks" : [ ],
+  "updated_at" : "2021-02-10T00:14:48.261Z",
+  "updated_by" : {
+    "type" : "user",
+    "id" : "76076219247",
+    "email" : "bcmxhiring@gmail.com"
+  },
+  "drm_disabled" : false,
+  "offline_enabled" : false,
+  "playback_rights_id" : null
+}, {
+  "id" : "6086753066001",
+  "account_id" : "6044537239001",
+  "ad_keys" : null,
+  "clip_source_video_id" : null,
+  "complete" : true,
+  "created_at" : "2019-09-16T15:45:49.733Z",
+  "created_by" : {
+    "type" : "user",
+    "id" : "76076159626",
+    "email" : "dadelantado@brightcove.com"
+  },
+  "cue_points" : [ ],
+  "custom_fields" : { },
+  "delivery_type" : "dynamic_origin",
+  "description" : null,
+  "digital_master_id" : null,
+  "duration" : 107051,
+  "economics" : "AD_SUPPORTED",
+  "folder_id" : null,
+  "geo" : null,
+  "has_digital_master" : true,
+  "images" : {
+    "poster" : {
+      "src" : "https://cf-images.us-east-1.prod.boltdns.net/v1/jit/6044537239001/b53faf17-f1e8-465e-bd3f-a017c58ac0fa/main/1280x720/53s525ms/match/image.jpg",
+      "sources" : [ {
+        "src" : "https://cf-images.us-east-1.prod.boltdns.net/v1/jit/6044537239001/b53faf17-f1e8-465e-bd3f-a017c58ac0fa/main/1280x720/53s525ms/match/image.jpg",
+        "height" : 720,
+        "width" : 1280
+      } ]
+    },
+    "thumbnail" : {
+      "src" : "https://cf-images.us-east-1.prod.boltdns.net/v1/jit/6044537239001/b53faf17-f1e8-465e-bd3f-a017c58ac0fa/main/160x90/53s525ms/match/image.jpg",
+      "sources" : [ {
+        "src" : "https://cf-images.us-east-1.prod.boltdns.net/v1/jit/6044537239001/b53faf17-f1e8-465e-bd3f-a017c58ac0fa/main/160x90/53s525ms/match/image.jpg",
+        "height" : 90,
+        "width" : 160
+      } ]
+    }
+  },
+  "link" : null,
+  "long_description" : null,
+  "name" : "293884104_6085880562001_6077309823001",
+  "original_filename" : "293884104_6085880562001_6077309823001.mp4",
+  "projection" : null,
+  "published_at" : "2019-09-16T15:45:49.756Z",
+  "reference_id" : null,
+  "schedule" : null,
+  "sharing" : null,
+  "state" : "ACTIVE",
+  "tags" : [ "mexico" ],
+  "text_tracks" : [ ],
+  "updated_at" : "2021-02-10T00:14:27.010Z",
+  "updated_by" : {
+    "type" : "user",
+    "id" : "76076219247",
+    "email" : "bcmxhiring@gmail.com"
+  },
+  "drm_disabled" : false,
+  "offline_enabled" : false,
+  "playback_rights_id" : null
+}, {
+  "id" : "6193950619001",
+  "account_id" : "6044537239001",
+  "ad_keys" : null,
+  "clip_source_video_id" : null,
+  "complete" : true,
+  "created_at" : "2020-09-23T22:13:27.449Z",
+  "created_by" : {
+    "type" : "user",
+    "id" : "76076159626",
+    "email" : "dadelantado@brightcove.com"
+  },
+  "cue_points" : [ ],
+  "custom_fields" : {
+    "test_field" : "another value"
+  },
+  "delivery_type" : "dynamic_origin",
+  "description" : null,
+  "digital_master_id" : null,
+  "duration" : 2812309,
+  "economics" : "AD_SUPPORTED",
+  "folder_id" : null,
+  "geo" : null,
+  "has_digital_master" : true,
+  "images" : {
+    "thumbnail" : {
+      "src" : "https://cf-images.us-east-1.prod.boltdns.net/v1/jit/6044537239001/f0b64479-04a3-4d6c-88fe-cf2657f9fe95/main/300x230/23m26s154ms/match/image.jpg",
+      "sources" : [ {
+        "src" : "https://cf-images.us-east-1.prod.boltdns.net/v1/jit/6044537239001/f0b64479-04a3-4d6c-88fe-cf2657f9fe95/main/300x230/23m26s154ms/match/image.jpg",
+        "height" : 230,
+        "width" : 300
+      } ]
+    },
+    "poster" : {
+      "src" : "https://cf-images.us-east-1.prod.boltdns.net/v1/jit/6044537239001/f0b64479-04a3-4d6c-88fe-cf2657f9fe95/main/1280x720/23m26s154ms/match/image.jpg",
+      "sources" : [ {
+        "src" : "https://cf-images.us-east-1.prod.boltdns.net/v1/jit/6044537239001/f0b64479-04a3-4d6c-88fe-cf2657f9fe95/main/1280x720/23m26s154ms/match/image.jpg",
+        "height" : 720,
+        "width" : 1280
+      } ]
+    }
+  },
+  "link" : null,
+  "long_description" : null,
+  "name" : "Phil Orch, v4 Deliverable",
+  "original_filename" : "Phil Orch, v4 Deliverable.mp4",
+  "projection" : null,
+  "published_at" : "2020-09-23T23:53:17.115Z",
+  "reference_id" : null,
+  "schedule" : null,
+  "sharing" : null,
+  "state" : "ACTIVE",
+  "tags" : [ "mexico" ],
+  "text_tracks" : [ ],
+  "updated_at" : "2021-02-10T00:14:11.422Z",
+  "updated_by" : {
+    "type" : "user",
+    "id" : "76076219247",
+    "email" : "bcmxhiring@gmail.com"
+  },
+  "drm_disabled" : true,
+  "offline_enabled" : false,
+  "playback_rights_id" : null
+}, {
+  "id" : "6222967749001",
+  "account_id" : "6044537239001",
+  "ad_keys" : null,
+  "clip_source_video_id" : null,
+  "complete" : true,
+  "created_at" : "2021-01-14T21:30:14.878Z",
+  "created_by" : {
+    "type" : "user",
+    "id" : "76076159626",
+    "email" : "dadelantado@brightcove.com"
+  },
+  "cue_points" : [ ],
+  "custom_fields" : { },
+  "delivery_type" : "dynamic_origin",
+  "description" : null,
+  "digital_master_id" : null,
+  "duration" : 20020,
+  "economics" : "AD_SUPPORTED",
+  "folder_id" : null,
+  "geo" : null,
+  "has_digital_master" : true,
+  "images" : {
+    "poster" : {
+      "src" : "https://cf-images.us-east-1.prod.boltdns.net/v1/jit/6044537239001/7eceedda-ae23-445a-83b8-a1c4525ebde7/main/1280x720/10s10ms/match/image.jpg",
+      "sources" : [ {
+        "src" : "https://cf-images.us-east-1.prod.boltdns.net/v1/jit/6044537239001/7eceedda-ae23-445a-83b8-a1c4525ebde7/main/1280x720/10s10ms/match/image.jpg",
+        "height" : 720,
+        "width" : 1280
+      } ]
+    },
+    "thumbnail" : {
+      "src" : "https://cf-images.us-east-1.prod.boltdns.net/v1/jit/6044537239001/7eceedda-ae23-445a-83b8-a1c4525ebde7/main/300x230/10s10ms/match/image.jpg",
+      "sources" : [ {
+        "src" : "https://cf-images.us-east-1.prod.boltdns.net/v1/jit/6044537239001/7eceedda-ae23-445a-83b8-a1c4525ebde7/main/300x230/10s10ms/match/image.jpg",
+        "height" : 230,
+        "width" : 300
+      } ]
+    }
+  },
+  "link" : null,
+  "long_description" : null,
+  "name" : "test_video",
+  "original_filename" : "test_video.mp4",
+  "projection" : null,
+  "published_at" : "2021-01-14T21:30:14.890Z",
+  "reference_id" : null,
+  "schedule" : null,
+  "sharing" : null,
+  "state" : "ACTIVE",
+  "tags" : [ ],
+  "text_tracks" : [ ],
+  "updated_at" : "2021-01-14T21:31:18.145Z",
+  "updated_by" : {
+    "type" : "internal"
+  },
+  "drm_disabled" : false,
+  "offline_enabled" : false,
+  "playback_rights_id" : null
+}, {
+  "id" : "6220139076001",
+  "account_id" : "6044537239001",
+  "ad_keys" : null,
+  "clip_source_video_id" : null,
+  "complete" : true,
+  "created_at" : "2021-01-04T21:24:38.185Z",
+  "created_by" : {
+    "type" : "user",
+    "id" : "76076159626",
+    "email" : "dadelantado@brightcove.com"
+  },
+  "cue_points" : [ ],
+  "custom_fields" : { },
+  "delivery_type" : "dynamic_origin",
+  "description" : null,
+  "digital_master_id" : null,
+  "duration" : 20020,
+  "economics" : "AD_SUPPORTED",
+  "folder_id" : null,
+  "geo" : null,
+  "has_digital_master" : true,
+  "images" : {
+    "thumbnail" : {
+      "src" : "https://cf-images.us-east-1.prod.boltdns.net/v1/jit/6044537239001/0fcbdb90-0646-416e-bcd0-fffbbe82c000/main/300x230/10s10ms/match/image.jpg",
+      "sources" : [ {
+        "src" : "https://cf-images.us-east-1.prod.boltdns.net/v1/jit/6044537239001/0fcbdb90-0646-416e-bcd0-fffbbe82c000/main/300x230/10s10ms/match/image.jpg",
+        "height" : 230,
+        "width" : 300
+      } ]
+    },
+    "poster" : {
+      "src" : "https://cf-images.us-east-1.prod.boltdns.net/v1/jit/6044537239001/0fcbdb90-0646-416e-bcd0-fffbbe82c000/main/1280x720/10s10ms/match/image.jpg",
+      "sources" : [ {
+        "src" : "https://cf-images.us-east-1.prod.boltdns.net/v1/jit/6044537239001/0fcbdb90-0646-416e-bcd0-fffbbe82c000/main/1280x720/10s10ms/match/image.jpg",
+        "height" : 720,
+        "width" : 1280
+      } ]
+    }
+  },
+  "link" : null,
+  "long_description" : null,
+  "name" : "test_video",
+  "original_filename" : "test_video.mp4",
+  "projection" : null,
+  "published_at" : "2021-01-04T21:24:38.196Z",
+  "reference_id" : null,
+  "schedule" : null,
+  "sharing" : null,
+  "state" : "ACTIVE",
+  "tags" : [ ],
+  "text_tracks" : [ ],
+  "updated_at" : "2021-01-04T21:25:48.570Z",
+  "updated_by" : {
+    "type" : "internal"
+  },
+  "drm_disabled" : false,
+  "offline_enabled" : false,
+  "playback_rights_id" : null
+}, {
+  "id" : "6215821413001",
+  "account_id" : "6044537239001",
+  "ad_keys" : null,
+  "clip_source_video_id" : null,
+  "complete" : true,
+  "created_at" : "2020-12-12T02:46:53.179Z",
+  "created_by" : {
+    "type" : "api_key"
+  },
+  "cue_points" : [ ],
+  "custom_fields" : { },
+  "delivery_type" : "dynamic_origin",
+  "description" : null,
+  "digital_master_id" : null,
+  "duration" : 6835834,
+  "economics" : "AD_SUPPORTED",
+  "folder_id" : null,
+  "geo" : null,
+  "has_digital_master" : false,
+  "images" : { },
+  "link" : null,
+  "long_description" : null,
+  "name" : "Sad Saturno Show Online Mundial",
+  "original_filename" : null,
+  "projection" : null,
+  "published_at" : "2020-12-12T02:46:53.191Z",
+  "reference_id" : null,
+  "schedule" : null,
+  "sharing" : null,
+  "state" : "INACTIVE",
+  "tags" : [ ],
+  "text_tracks" : [ ],
+  "updated_at" : "2020-12-26T14:53:16.330Z",
+  "updated_by" : {
+    "type" : "user",
+    "id" : "76076159626",
+    "email" : "dadelantado@brightcove.com"
+  },
+  "drm_disabled" : false,
+  "offline_enabled" : false,
+  "playback_rights_id" : null
+}, {
+  "id" : "6209708473001",
+  "account_id" : "6044537239001",
+  "ad_keys" : null,
+  "clip_source_video_id" : null,
+  "complete" : true,
+  "created_at" : "2020-11-13T19:44:45.307Z",
+  "created_by" : {
+    "type" : "api_key"
+  },
+  "cue_points" : [ ],
+  "custom_fields" : { },
+  "delivery_type" : "dynamic_origin",
+  "description" : null,
+  "digital_master_id" : null,
+  "duration" : 932233,
+  "economics" : "AD_SUPPORTED",
+  "folder_id" : null,
+  "geo" : null,
+  "has_digital_master" : true,
+  "images" : {
+    "poster" : {
+      "src" : "https://cf-images.us-east-1.prod.boltdns.net/v1/jit/6044537239001/723b652d-6e15-400e-9229-fac08ba2e47b/main/1280x720/5s/match/image.jpg",
+      "sources" : [ {
+        "src" : "https://cf-images.us-east-1.prod.boltdns.net/v1/jit/6044537239001/723b652d-6e15-400e-9229-fac08ba2e47b/main/1280x720/5s/match/image.jpg",
+        "height" : 720,
+        "width" : 1280
+      } ]
+    },
+    "thumbnail" : {
+      "src" : "https://cf-images.us-east-1.prod.boltdns.net/v1/jit/6044537239001/723b652d-6e15-400e-9229-fac08ba2e47b/main/300x230/5s/match/image.jpg",
+      "sources" : [ {
+        "src" : "https://cf-images.us-east-1.prod.boltdns.net/v1/jit/6044537239001/723b652d-6e15-400e-9229-fac08ba2e47b/main/300x230/5s/match/image.jpg",
+        "height" : 230,
+        "width" : 300
+      } ]
+    }
+  },
+  "link" : null,
+  "long_description" : null,
+  "name" : "Ads Test",
+  "original_filename" : null,
+  "projection" : null,
+  "published_at" : "2020-11-13T19:44:45.325Z",
+  "reference_id" : "2020",
+  "schedule" : null,
+  "sharing" : null,
+  "state" : "ACTIVE",
+  "tags" : [ ],
+  "text_tracks" : [ {
+    "id" : "4391734f-3dc6-41e4-9f7d-36a2fa91edaf",
+    "account_id" : "6044537239001",
+    "src" : "https://static.3playmedia.com/p/files/2299669/threeplay_transcripts/6614224.vtt?project_id=16931&format_id=51&refresh=1556034652",
+    "srclang" : "en",
+    "label" : "English",
+    "kind" : "captions",
+    "mime_type" : "text/vtt",
+    "asset_id" : null,
+    "sources" : [ {
+      "src" : "https://static.3playmedia.com/p/files/2299669/threeplay_transcripts/6614224.vtt?project_id=16931&format_id=51&refresh=1556034652"
+    } ],
+    "default" : false
+  } ],
+  "updated_at" : "2020-12-15T00:12:37.375Z",
+  "updated_by" : {
+    "type" : "user",
+    "id" : "76076159626",
+    "email" : "dadelantado@brightcove.com"
+  },
+  "drm_disabled" : true,
+  "offline_enabled" : false,
+  "playback_rights_id" : null
+}, {
+  "id" : "6215814281001",
+  "account_id" : "6044537239001",
+  "ad_keys" : null,
+  "clip_source_video_id" : null,
+  "complete" : true,
+  "created_at" : "2020-12-12T02:29:31.347Z",
+  "created_by" : {
+    "type" : "api_key"
+  },
+  "cue_points" : [ ],
+  "custom_fields" : { },
+  "delivery_type" : "live_origin",
+  "description" : null,
+  "digital_master_id" : null,
+  "duration" : -1,
+  "economics" : "AD_SUPPORTED",
+  "folder_id" : null,
+  "geo" : null,
+  "has_digital_master" : false,
+  "images" : { },
+  "link" : null,
+  "long_description" : null,
+  "name" : "Test Sadsa",
+  "original_filename" : null,
+  "projection" : null,
+  "published_at" : "2020-12-12T02:29:31.356Z",
+  "reference_id" : null,
+  "schedule" : null,
+  "sharing" : null,
+  "state" : "ACTIVE",
+  "tags" : [ ],
+  "text_tracks" : [ ],
+  "updated_at" : "2020-12-12T02:29:32.536Z",
+  "updated_by" : {
+    "type" : "api_key"
+  },
+  "playback_rights_id" : null
+}, {
+  "id" : "6215812200001",
+  "account_id" : "6044537239001",
+  "ad_keys" : null,
+  "clip_source_video_id" : null,
+  "complete" : false,
+  "created_at" : "2020-12-12T01:55:37.688Z",
+  "created_by" : {
+    "type" : "user",
+    "id" : "76076159626",
+    "email" : "dadelantado@brightcove.com"
+  },
+  "cue_points" : [ ],
+  "custom_fields" : { },
+  "delivery_type" : "unknown",
+  "description" : null,
+  "digital_master_id" : null,
+  "duration" : 0,
+  "economics" : "AD_SUPPORTED",
+  "folder_id" : null,
+  "geo" : null,
+  "has_digital_master" : false,
+  "images" : { },
+  "link" : null,
+  "long_description" : null,
+  "name" : "MVI_6004_1_1",
+  "original_filename" : null,
+  "projection" : null,
+  "published_at" : "2020-12-12T01:55:37.695Z",
+  "reference_id" : null,
+  "schedule" : null,
+  "sharing" : null,
+  "state" : "ACTIVE",
+  "tags" : [ ],
+  "text_tracks" : [ ],
+  "updated_at" : "2020-12-12T01:55:37.696Z",
+  "updated_by" : {
+    "type" : "user",
+    "id" : "76076159626",
+    "email" : "dadelantado@brightcove.com"
+  },
+  "playback_rights_id" : null
+}, {
+  "id" : "6215805796001",
+  "account_id" : "6044537239001",
+  "ad_keys" : null,
+  "clip_source_video_id" : null,
+  "complete" : false,
+  "created_at" : "2020-12-12T01:45:18.406Z",
+  "created_by" : {
+    "type" : "user",
+    "id" : "76076159626",
+    "email" : "dadelantado@brightcove.com"
+  },
+  "cue_points" : [ ],
+  "custom_fields" : { },
+  "delivery_type" : "unknown",
+  "description" : null,
+  "digital_master_id" : null,
+  "duration" : 0,
+  "economics" : "AD_SUPPORTED",
+  "folder_id" : null,
+  "geo" : null,
+  "has_digital_master" : false,
+  "images" : { },
+  "link" : null,
+  "long_description" : null,
+  "name" : "MVI_6004_1_1",
+  "original_filename" : null,
+  "projection" : null,
+  "published_at" : "2020-12-12T01:45:18.426Z",
+  "reference_id" : null,
+  "schedule" : null,
+  "sharing" : null,
+  "state" : "ACTIVE",
+  "tags" : [ ],
+  "text_tracks" : [ ],
+  "updated_at" : "2020-12-12T01:45:18.426Z",
+  "updated_by" : {
+    "type" : "user",
+    "id" : "76076159626",
+    "email" : "dadelantado@brightcove.com"
+  },
+  "playback_rights_id" : null
+}, {
+  "id" : "6212065298001",
+  "account_id" : "6044537239001",
+  "ad_keys" : null,
+  "clip_source_video_id" : null,
+  "complete" : true,
+  "created_at" : "2020-11-24T21:14:07.572Z",
+  "created_by" : {
+    "type" : "internal"
+  },
+  "cue_points" : [ ],
+  "custom_fields" : { },
+  "delivery_type" : "dynamic_origin",
+  "description" : null,
+  "digital_master_id" : null,
+  "duration" : 110782,
+  "economics" : "AD_SUPPORTED",
+  "folder_id" : null,
+  "geo" : null,
+  "has_digital_master" : true,
+  "images" : {
+    "thumbnail" : {
+      "src" : "https://cf-images.us-east-1.prod.boltdns.net/v1/static/6044537239001/b6bda49d-baa6-4753-9ca8-01c1426e1dc2/44b20ac5-0cdb-4af7-bd34-54eb2878b022/300x230/match/image.jpg",
+      "sources" : [ {
+        "src" : "https://cf-images.us-east-1.prod.boltdns.net/v1/static/6044537239001/b6bda49d-baa6-4753-9ca8-01c1426e1dc2/44b20ac5-0cdb-4af7-bd34-54eb2878b022/300x230/match/image.jpg",
+        "height" : 230,
+        "width" : 300
+      } ]
+    },
+    "poster" : {
+      "src" : "https://cf-images.us-east-1.prod.boltdns.net/v1/static/6044537239001/b6bda49d-baa6-4753-9ca8-01c1426e1dc2/284eeab5-44d6-402a-b84e-35bc8e7dbde2/1280x720/match/image.jpg",
+      "sources" : [ {
+        "src" : "https://cf-images.us-east-1.prod.boltdns.net/v1/static/6044537239001/b6bda49d-baa6-4753-9ca8-01c1426e1dc2/284eeab5-44d6-402a-b84e-35bc8e7dbde2/1280x720/match/image.jpg",
+        "height" : 720,
+        "width" : 1280
+      } ]
+    }
+  },
+  "link" : null,
+  "long_description" : null,
+  "name" : "veteran_crew_to_fly_for_one_year",
+  "original_filename" : "veteran_crew_to_fly_for_one_year.mp4",
+  "projection" : null,
+  "published_at" : "2020-11-24T21:14:07.585Z",
+  "reference_id" : null,
+  "schedule" : null,
+  "sharing" : {
+    "by_external_acct" : true,
+    "by_id" : "6071570205001",
+    "source_id" : "6197604789001",
+    "to_external_acct" : false,
+    "by_reference" : true
+  },
+  "state" : "ACTIVE",
+  "tags" : [ "save", "space", "tagtest", "test" ],
+  "text_tracks" : [ {
+    "id" : "4e7fdef2-b909-44ac-beae-fa980949beea",
+    "account_id" : "6071570205001",
+    "src" : "http://bcbolt446c5271-a.akamaihd.net/media/v1/text/vtt/clear/6071570205001/f8c0584a-768b-486a-b94f-d1711a9bfc15/4e7fdef2-b909-44ac-beae-fa980949beea/text.vtt?akamai_token=exp=1613628453~acl=/media/v1/text/vtt/clear/6071570205001/f8c0584a-768b-486a-b94f-d1711a9bfc15/4e7fdef2-b909-44ac-beae-fa980949beea/text.vtt*~hmac=5e4a5308d6f15e19e9078f0044362b5a60f2ee4998c2cfae123efd0023e92888",
+    "srclang" : "en",
+    "label" : "EN",
+    "kind" : "captions",
+    "mime_type" : "text/webvtt",
+    "asset_id" : null,
+    "sources" : [ {
+      "src" : "http://bcbolt446c5271-a.akamaihd.net/media/v1/text/vtt/clear/6071570205001/f8c0584a-768b-486a-b94f-d1711a9bfc15/4e7fdef2-b909-44ac-beae-fa980949beea/text.vtt?akamai_token=exp=1613628453~acl=/media/v1/text/vtt/clear/6071570205001/f8c0584a-768b-486a-b94f-d1711a9bfc15/4e7fdef2-b909-44ac-beae-fa980949beea/text.vtt*~hmac=5e4a5308d6f15e19e9078f0044362b5a60f2ee4998c2cfae123efd0023e92888"
+    }, {
+      "src" : "https://bcbolt446c5271-a.akamaihd.net/media/v1/text/vtt/clear/6071570205001/f8c0584a-768b-486a-b94f-d1711a9bfc15/4e7fdef2-b909-44ac-beae-fa980949beea/text.vtt?akamai_token=exp=1613628453~acl=/media/v1/text/vtt/clear/6071570205001/f8c0584a-768b-486a-b94f-d1711a9bfc15/4e7fdef2-b909-44ac-beae-fa980949beea/text.vtt*~hmac=5e4a5308d6f15e19e9078f0044362b5a60f2ee4998c2cfae123efd0023e92888"
+    } ],
+    "in_band_metadata_track_dispatch_type" : "",
+    "default" : false
+  } ],
+  "updated_at" : "2020-12-01T22:33:19.647Z",
+  "updated_by" : {
+    "type" : "user",
+    "id" : "76076159626",
+    "email" : "dadelantado@brightcove.com"
+  },
+  "drm_disabled" : false,
+  "offline_enabled" : false,
+  "playback_rights_id" : null
+}, {
+  "id" : "6212742885001",
+  "account_id" : "6044537239001",
+  "ad_keys" : null,
+  "clip_source_video_id" : null,
+  "complete" : true,
+  "created_at" : "2020-11-27T21:03:42.310Z",
+  "created_by" : {
+    "type" : "api_key"
+  },
+  "cue_points" : [ ],
+  "custom_fields" : { },
+  "delivery_type" : "live_origin",
+  "description" : null,
+  "digital_master_id" : null,
+  "duration" : -1,
+  "economics" : "AD_SUPPORTED",
+  "folder_id" : null,
+  "geo" : null,
+  "has_digital_master" : false,
+  "images" : { },
+  "link" : null,
+  "long_description" : null,
+  "name" : "Not starting event",
+  "original_filename" : null,
+  "projection" : null,
+  "published_at" : "2020-11-27T21:03:42.333Z",
+  "reference_id" : null,
+  "schedule" : null,
+  "sharing" : null,
+  "state" : "ACTIVE",
+  "tags" : [ ],
+  "text_tracks" : [ ],
+  "updated_at" : "2020-11-27T21:03:43.647Z",
+  "updated_by" : {
+    "type" : "api_key"
+  },
+  "playback_rights_id" : null
+}, {
+  "id" : "6160962688001",
+  "account_id" : "6044537239001",
+  "ad_keys" : null,
+  "clip_source_video_id" : null,
+  "complete" : true,
+  "created_at" : "2020-06-01T23:49:01.840Z",
+  "created_by" : {
+    "type" : "user",
+    "id" : "76076159626",
+    "email" : "dadelantado@brightcove.com"
+  },
+  "cue_points" : [ ],
+  "custom_fields" : {
+    "test_field" : "another value"
+  },
+  "delivery_type" : "dynamic_origin",
+  "description" : null,
+  "digital_master_id" : null,
+  "duration" : 219733,
+  "economics" : "AD_SUPPORTED",
+  "folder_id" : null,
+  "geo" : null,
+  "has_digital_master" : true,
+  "images" : {
+    "poster" : {
+      "src" : "https://cf-images.us-east-1.prod.boltdns.net/v1/jit/6044537239001/b51435ef-6bd9-40ca-8cf4-9df7e483e3d8/main/1280x720/1m49s866ms/match/image.jpg",
+      "sources" : [ {
+        "src" : "https://cf-images.us-east-1.prod.boltdns.net/v1/jit/6044537239001/b51435ef-6bd9-40ca-8cf4-9df7e483e3d8/main/1280x720/1m49s866ms/match/image.jpg",
+        "height" : 720,
+        "width" : 1280
+      } ]
+    },
+    "thumbnail" : {
+      "src" : "https://cf-images.us-east-1.prod.boltdns.net/v1/jit/6044537239001/b51435ef-6bd9-40ca-8cf4-9df7e483e3d8/main/300x230/1m49s866ms/match/image.jpg",
+      "sources" : [ {
+        "src" : "https://cf-images.us-east-1.prod.boltdns.net/v1/jit/6044537239001/b51435ef-6bd9-40ca-8cf4-9df7e483e3d8/main/300x230/1m49s866ms/match/image.jpg",
+        "height" : 230,
+        "width" : 300
+      } ]
+    }
+  },
+  "link" : null,
+  "long_description" : null,
+  "name" : "main (1)",
+  "original_filename" : "main (1).mp4",
+  "projection" : null,
+  "published_at" : "2020-06-01T23:56:20.056Z",
+  "reference_id" : null,
+  "schedule" : null,
+  "sharing" : null,
+  "state" : "ACTIVE",
+  "tags" : [ ],
+  "text_tracks" : [ {
+    "id" : "4f7791a9-76b5-4199-80f0-e63d614170cf",
+    "account_id" : "6044537239001",
+    "src" : "http://bcbolt446c5271-a.akamaihd.net/media/v1/text/vtt/clear/6044537239001/b51435ef-6bd9-40ca-8cf4-9df7e483e3d8/4f7791a9-76b5-4199-80f0-e63d614170cf/text.vtt?akamai_token=exp=1613628580~acl=/media/v1/text/vtt/clear/6044537239001/b51435ef-6bd9-40ca-8cf4-9df7e483e3d8/4f7791a9-76b5-4199-80f0-e63d614170cf/text.vtt*~hmac=ed13a20d9e149d472c1dc57c215c50544c2be2b6b5af777b2f30f3bbc414b319",
+    "srclang" : "en-US",
+    "label" : "English",
+    "kind" : "captions",
+    "mime_type" : "text/webvtt",
+    "asset_id" : null,
+    "sources" : [ {
+      "src" : "http://bcbolt446c5271-a.akamaihd.net/media/v1/text/vtt/clear/6044537239001/b51435ef-6bd9-40ca-8cf4-9df7e483e3d8/4f7791a9-76b5-4199-80f0-e63d614170cf/text.vtt?akamai_token=exp=1613628580~acl=/media/v1/text/vtt/clear/6044537239001/b51435ef-6bd9-40ca-8cf4-9df7e483e3d8/4f7791a9-76b5-4199-80f0-e63d614170cf/text.vtt*~hmac=ed13a20d9e149d472c1dc57c215c50544c2be2b6b5af777b2f30f3bbc414b319"
+    }, {
+      "src" : "https://bcbolt446c5271-a.akamaihd.net/media/v1/text/vtt/clear/6044537239001/b51435ef-6bd9-40ca-8cf4-9df7e483e3d8/4f7791a9-76b5-4199-80f0-e63d614170cf/text.vtt?akamai_token=exp=1613628580~acl=/media/v1/text/vtt/clear/6044537239001/b51435ef-6bd9-40ca-8cf4-9df7e483e3d8/4f7791a9-76b5-4199-80f0-e63d614170cf/text.vtt*~hmac=ed13a20d9e149d472c1dc57c215c50544c2be2b6b5af777b2f30f3bbc414b319"
+    } ],
+    "in_band_metadata_track_dispatch_type" : "",
+    "default" : false
+  } ],
+  "updated_at" : "2020-11-17T21:18:50.277Z",
+  "updated_by" : {
+    "type" : "user",
+    "id" : "76076159626",
+    "email" : "dadelantado@brightcove.com"
+  },
+  "drm_disabled" : false,
+  "offline_enabled" : false,
+  "playback_rights_id" : null
+}, {
+  "id" : "6179014876001",
+  "account_id" : "6044537239001",
+  "ad_keys" : null,
+  "clip_source_video_id" : null,
+  "complete" : true,
+  "created_at" : "2020-08-07T00:06:06.788Z",
+  "created_by" : {
+    "type" : "api_key"
+  },
+  "cue_points" : [ ],
+  "custom_fields" : {
+    "test_field" : "more valus"
+  },
+  "delivery_type" : "dynamic_origin",
+  "description" : null,
+  "digital_master_id" : null,
+  "duration" : 85600,
+  "economics" : "FREE",
+  "folder_id" : null,
+  "geo" : null,
+  "has_digital_master" : true,
+  "images" : {
+    "thumbnail" : {
+      "src" : "https://cf-images.us-east-1.prod.boltdns.net/v1/jit/6044537239001/bc2ad851-1b1b-454d-8dc6-71bc21dd2b93/main/300x230/5s/match/image.jpg",
+      "sources" : [ {
+        "src" : "https://cf-images.us-east-1.prod.boltdns.net/v1/jit/6044537239001/bc2ad851-1b1b-454d-8dc6-71bc21dd2b93/main/300x230/5s/match/image.jpg",
+        "height" : 230,
+        "width" : 300
+      } ]
+    },
+    "poster" : {
+      "src" : "https://cf-images.us-east-1.prod.boltdns.net/v1/jit/6044537239001/bc2ad851-1b1b-454d-8dc6-71bc21dd2b93/main/1280x720/5s/match/image.jpg",
+      "sources" : [ {
+        "src" : "https://cf-images.us-east-1.prod.boltdns.net/v1/jit/6044537239001/bc2ad851-1b1b-454d-8dc6-71bc21dd2b93/main/1280x720/5s/match/image.jpg",
+        "height" : 720,
+        "width" : 1280
+      } ]
+    }
+  },
+  "link" : null,
+  "long_description" : null,
+  "name" : "GHalleyrer",
+  "original_filename" : null,
+  "projection" : null,
+  "published_at" : "2020-08-07T00:06:06.807Z",
+  "reference_id" : null,
+  "schedule" : null,
+  "sharing" : null,
+  "state" : "ACTIVE",
+  "tags" : [ ],
+  "text_tracks" : [ {
+    "id" : "c00d72b6-9ab1-4da2-a67f-61f69298b429",
+    "account_id" : "6044537239001",
+    "src" : "http://bcbolt446c5271-a.akamaihd.net/media/v1/text/vtt/clear/102076671001/61c468ac-beea-43f3-b25a-a0b0d3e0937d/a6d08ee6-47b3-4380-8156-9da135785147/text.vtt?akamai_token=exp=1596945000~acl=/media/v1/text/vtt/clear/102076671001/61c468ac-beea-43f3-b25a-a0b0",
+    "srclang" : "en",
+    "label" : "English",
+    "kind" : "captions",
+    "mime_type" : "text/vtt",
+    "asset_id" : null,
+    "sources" : [ {
+      "src" : "http://bcbolt446c5271-a.akamaihd.net/media/v1/text/vtt/clear/102076671001/61c468ac-beea-43f3-b25a-a0b0d3e0937d/a6d08ee6-47b3-4380-8156-9da135785147/text.vtt?akamai_token=exp=1596945000~acl=/media/v1/text/vtt/clear/102076671001/61c468ac-beea-43f3-b25a-a0b0"
+    } ],
+    "default" : true
+  }, {
+    "id" : "8f88b7e0-09ef-4f3b-96c5-7bb53f93b30d",
+    "account_id" : "6044537239001",
+    "src" : "http://bcbolt446c5271-a.akamaihd.net/media/v1/text/vtt/clear/102076671001/713ed977-f11c-4122-94f3-248db15b34f5/138cf650-7e7a-4d97-857b-e9029b62ed8f/text.vtt?akamai_token=exp=1596936526~acl=/media/v1/text/vtt/clear/102076671001/713ed977-f11c-4122-94f3-248d",
+    "srclang" : "es",
+    "label" : "Spanish",
+    "kind" : "captions",
+    "mime_type" : "text/vtt",
+    "asset_id" : null,
+    "sources" : [ {
+      "src" : "http://bcbolt446c5271-a.akamaihd.net/media/v1/text/vtt/clear/102076671001/713ed977-f11c-4122-94f3-248db15b34f5/138cf650-7e7a-4d97-857b-e9029b62ed8f/text.vtt?akamai_token=exp=1596936526~acl=/media/v1/text/vtt/clear/102076671001/713ed977-f11c-4122-94f3-248d"
+    } ],
+    "default" : false
+  } ],
+  "updated_at" : "2020-11-02T19:27:46.629Z",
+  "updated_by" : {
+    "type" : "user",
+    "id" : "76076159626",
+    "email" : "dadelantado@brightcove.com"
+  },
+  "drm_disabled" : true,
+  "offline_enabled" : false,
+  "playback_rights_id" : null
+}, {
+  "id" : "6193541194001",
+  "account_id" : "6044537239001",
+  "ad_keys" : null,
+  "clip_source_video_id" : null,
+  "complete" : true,
+  "created_at" : "2020-09-22T19:51:01.071Z",
+  "created_by" : {
+    "type" : "user",
+    "id" : "76076159626",
+    "email" : "dadelantado@brightcove.com"
+  },
+  "cue_points" : [ ],
+  "custom_fields" : {
+    "test_field" : "another value"
+  },
+  "delivery_type" : "dynamic_origin",
+  "description" : null,
+  "digital_master_id" : null,
+  "duration" : 85682,
+  "economics" : "FREE",
+  "folder_id" : null,
+  "geo" : null,
+  "has_digital_master" : true,
+  "images" : {
+    "poster" : {
+      "src" : "https://cf-images.us-east-1.prod.boltdns.net/v1/jit/6044537239001/3a69ade2-e59e-46b2-8e89-cbf742df4612/main/1280x720/42s841ms/match/image.jpg",
+      "sources" : [ {
+        "src" : "https://cf-images.us-east-1.prod.boltdns.net/v1/jit/6044537239001/3a69ade2-e59e-46b2-8e89-cbf742df4612/main/1280x720/42s841ms/match/image.jpg",
+        "height" : 720,
+        "width" : 1280
+      } ]
+    },
+    "thumbnail" : {
+      "src" : "https://cf-images.us-east-1.prod.boltdns.net/v1/jit/6044537239001/3a69ade2-e59e-46b2-8e89-cbf742df4612/main/300x230/42s841ms/match/image.jpg",
+      "sources" : [ {
+        "src" : "https://cf-images.us-east-1.prod.boltdns.net/v1/jit/6044537239001/3a69ade2-e59e-46b2-8e89-cbf742df4612/main/300x230/42s841ms/match/image.jpg",
+        "height" : 230,
+        "width" : 300
+      } ]
+    }
+  },
+  "link" : null,
+  "long_description" : null,
+  "name" : "out",
+  "original_filename" : "out.mp4",
+  "projection" : null,
+  "published_at" : "2020-09-22T21:24:49.328Z",
+  "reference_id" : null,
+  "schedule" : null,
+  "sharing" : null,
+  "state" : "ACTIVE",
+  "tags" : [ ],
+  "text_tracks" : [ {
+    "id" : "801672ba-0f5c-4772-8f49-8fbab28fea2f",
+    "account_id" : "6044537239001",
+    "src" : "http://bcbolt446c5271-a.akamaihd.net/media/v1/text/vtt/clear/6044537239001/3a69ade2-e59e-46b2-8e89-cbf742df4612/801672ba-0f5c-4772-8f49-8fbab28fea2f/text.vtt?akamai_token=exp=1613631605~acl=/media/v1/text/vtt/clear/6044537239001/3a69ade2-e59e-46b2-8e89-cbf742df4612/801672ba-0f5c-4772-8f49-8fbab28fea2f/text.vtt*~hmac=d0cf5605c3d61d4415b8b87424748c2e8bf36185feb5d4247d8d77f6d7203fc8",
+    "srclang" : "es",
+    "label" : "Espanol",
+    "kind" : "captions",
+    "mime_type" : "text/webvtt",
+    "asset_id" : null,
+    "sources" : [ {
+      "src" : "http://bcbolt446c5271-a.akamaihd.net/media/v1/text/vtt/clear/6044537239001/3a69ade2-e59e-46b2-8e89-cbf742df4612/801672ba-0f5c-4772-8f49-8fbab28fea2f/text.vtt?akamai_token=exp=1613631605~acl=/media/v1/text/vtt/clear/6044537239001/3a69ade2-e59e-46b2-8e89-cbf742df4612/801672ba-0f5c-4772-8f49-8fbab28fea2f/text.vtt*~hmac=d0cf5605c3d61d4415b8b87424748c2e8bf36185feb5d4247d8d77f6d7203fc8"
+    }, {
+      "src" : "https://bcbolt446c5271-a.akamaihd.net/media/v1/text/vtt/clear/6044537239001/3a69ade2-e59e-46b2-8e89-cbf742df4612/801672ba-0f5c-4772-8f49-8fbab28fea2f/text.vtt?akamai_token=exp=1613631605~acl=/media/v1/text/vtt/clear/6044537239001/3a69ade2-e59e-46b2-8e89-cbf742df4612/801672ba-0f5c-4772-8f49-8fbab28fea2f/text.vtt*~hmac=d0cf5605c3d61d4415b8b87424748c2e8bf36185feb5d4247d8d77f6d7203fc8"
+    } ],
+    "in_band_metadata_track_dispatch_type" : "",
+    "default" : false
+  } ],
+  "updated_at" : "2020-11-02T19:22:58.712Z",
+  "updated_by" : {
+    "type" : "user",
+    "id" : "76076159626",
+    "email" : "dadelantado@brightcove.com"
+  },
+  "drm_disabled" : true,
+  "offline_enabled" : false,
+  "playback_rights_id" : null
+} ]
